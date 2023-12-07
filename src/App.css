@@ -50,3 +50,7 @@ body, button {
 #quote, #author {
   font-weight: normal;
 }
+
+#title {
+  margin-bottom: 5%;
+}
