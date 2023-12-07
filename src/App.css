@@ -15,7 +15,7 @@ body, button {
 #innerBox {
   background-color: white;
   min-height: 50%;
-  width: 75%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
